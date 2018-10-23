@@ -1,0 +1,11 @@
+project file details:
+
+
+
+n.py --->  current traffic condition
+
+n1.py ---> state of traffic with the implementation of system
+
+pr.py ---> bluetooth module
+
+f.py ---> cipher algorithm
